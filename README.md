@@ -2,6 +2,7 @@ munin-statsd
 ============
 
 A small tool for running munin plugins on a server and sending the data to a statsd server via UDP.
+Heavily influenced by https://github.com/jforman/munin-graphite
 
 Output from help:
 
