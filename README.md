@@ -17,7 +17,7 @@ Output from help:
       -v {1,2,3}, --verbose {1,2,3}
                         Verbosity level. 1=Quiet(default), 2=Debug, 3=Error.
       -m {c,g,h,m}, --metric {c,g,h,m}
-                        Metric type. c=Counter, g=Gauge, h=Histogram, m=Meter.
+                        Metric type. c=Counter(default), g=Gauge, h=Histogram, m=Meter.
       -p PREFIX, --prefix PREFIX
                         The prefix you'd like to send to statsd. Default is
                         servers.
